@@ -1,0 +1,8 @@
+{
+  "id": "virtual-world",
+  "name": "Virtual World Channel",
+  "version": "1.0.0",
+  "description": "Connects OpenClaw to the virtual world server for controlling XiaoAi's apartment life",
+  "author": "wvkmind",
+  "license": "MIT"
+}

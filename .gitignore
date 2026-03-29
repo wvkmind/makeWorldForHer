@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+node_modules/
+dist/
+.dart_tool/
+build/
+*.iml
+.idea/
+makeWorldForHer/

@@ -1,0 +1,21 @@
+{
+  "name": "@openclaw/virtual-world",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "./dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.0",
+    "@types/node": "^22.0.0",
+    "@types/ws": "^8.5.0"
+  },
+  "dependencies": {
+    "ws": "^8.16.0"
+  },
+  "openclaw": {
+    "extensions": ["./dist/index.js"]
+  }
+}
